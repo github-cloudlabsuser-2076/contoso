@@ -1,5 +1,8 @@
 name: contoso-traders-provisioning-deployment
 
+permissions:
+  contents: read
+
 on:
   workflow_dispatch:
 
