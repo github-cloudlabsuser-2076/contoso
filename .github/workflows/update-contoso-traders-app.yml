@@ -1,4 +1,6 @@
 name: update contoso traders app
+permissions:
+  contents: read
 
 on:
   workflow_dispatch:
